@@ -1,4 +1,4 @@
-inoremap jj <ESC>
+inoremap jk <ESC>
 let mapleader = "\<Space>"
 filetype plugin indent on
 syntax on
